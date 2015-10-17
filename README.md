@@ -22,20 +22,20 @@ Keys
 -------------------------------------------------------------------------------
 
 Button 0: Control Mode
--Description: used to switch between a total of three modes, allowing a total of twelve macros.
--Keys: Ctrl + Numpad0
+- Description: used to switch between a total of three modes, allowing a total of twelve macros.
+- Keys: Ctrl + Numpad0
 
 Button 1:
-- Keys: Ctrl + {Numpad1 || Numpad4 || Numpad7}
+- Keys: Ctrl + { Numpad1 || Numpad4 || Numpad7 }
 
 Button 2:
-- Keys: Ctrl + {Numpad2 || Numpad5 || Numpad8}
+- Keys: Ctrl + { Numpad2 || Numpad5 || Numpad8 }
 
 Button 3:
-- Keys: Ctrl + {Numpad3 || Numpad8 || Numpad9}
+- Keys: Ctrl + { Numpad3 || Numpad8 || Numpad9 }
 
 Button 4:
-- Keys: Ctrl + {Numpad. || Numpad+ || Numpad-}
+- Keys: Ctrl + { Numpad. || Numpad+ || Numpad- }
 
 Sample Auto HotKey configuration
 -------------------------------------------------------------------------------
